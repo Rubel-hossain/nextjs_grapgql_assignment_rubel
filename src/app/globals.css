@@ -6,5 +6,5 @@
   scroll-behavior: smooth;
 }
 .hero-area-wrapper {
-  overflow-x: hidden;
+  overflow: hidden;
 }
